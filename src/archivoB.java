@@ -20,5 +20,8 @@ public class archivoB {
 	public static void funcion4() {
 		System.out.println("Esta es la funcion 4");
 	}
+	public static void funcion5() {
+		System.out.println("Esta es la funcion 5");
+	}
 	
 }
