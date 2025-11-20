@@ -6,11 +6,15 @@ public class archivoD {
 		// TODO Auto-generated method stub
 		experimentalB1();
 		experimentalB2();
+		experimentalB3();
 	}
 	public static void experimentalB1() {
 		System.out.println("Experimental 1");
 	}
 	public static void experimentalB2() {
 		System.out.println("Experimental 2");
+	}
+	public static void experimentalB3() {
+		System.out.println("Experimental 3");
 	}
 }
