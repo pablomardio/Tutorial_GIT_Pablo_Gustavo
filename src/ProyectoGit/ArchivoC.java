@@ -17,4 +17,8 @@ public class ArchivoC {
 		System.out.println("adios");
 	}
 
+	public static void experimental6()
+	{
+		System.out.println("adios");
+	}
 }
