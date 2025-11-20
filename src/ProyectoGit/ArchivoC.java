@@ -11,5 +11,10 @@ public class ArchivoC {
 	{
 		System.out.println("adios");
 	}
+	
+	public static void experimental5()
+	{
+		System.out.println("adios");
+	}
 
 }
