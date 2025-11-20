@@ -9,6 +9,7 @@ public class archivoB {
 		funcion3();
 		funcion4();
 		funcion5();
+		funcion6();
 	}
 	public static void funcion1() {
 		System.out.println("Esta es la funcion 1");
@@ -24,5 +25,8 @@ public class archivoB {
 	}
 	public static void funcion5() {
 		System.out.println("Esta es la funcion 5");
+	}
+	public static void funcion6() {
+		System.out.println("Esta es la funcion 6");
 	}
 }
