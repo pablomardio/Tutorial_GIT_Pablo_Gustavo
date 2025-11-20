@@ -43,4 +43,7 @@ public class archivoB {
 	public static void funcion9() {
 		System.out.println("Esta es la funcion 9");
 	}
+	public static void funcion10() {
+		System.out.println("Esta es la funcion 10");
+	}
 }
