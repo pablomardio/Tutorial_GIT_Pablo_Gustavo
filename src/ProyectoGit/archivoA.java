@@ -41,4 +41,9 @@ public class archivoA {
 	{
 		System.out.println("hola");
 	}
+	
+	public static void funcion3()
+	{
+		System.out.println("hola");
+	}
 }
