@@ -31,4 +31,9 @@ public class archivoA {
 	{
 		System.out.println("este es el ejercicio 5");
 	}
+	
+	public static void funcion1()
+	{
+		System.out.println("hola");
+	}
 }
