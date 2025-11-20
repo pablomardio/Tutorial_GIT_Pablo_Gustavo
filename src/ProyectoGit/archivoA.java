@@ -51,4 +51,9 @@ public class archivoA {
 	{
 		System.out.println("adios");
 	}
+	
+	public static void experimental2()
+	{
+		System.out.println("adios");
+	}
 }
