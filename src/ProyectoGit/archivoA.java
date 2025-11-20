@@ -46,4 +46,9 @@ public class archivoA {
 	{
 		System.out.println("hola");
 	}
+	
+	public static void experimental1()
+	{
+		System.out.println("adios");
+	}
 }
