@@ -46,4 +46,49 @@ public class archivoA {
 	{
 		System.out.println("hola");
 	}
+	
+	public static void experimental1()
+	{
+		System.out.println("adios");
+	}
+	
+	public static void experimental2()
+	{
+		System.out.println("adios");
+	}
+	
+	public static void experimental3()
+	{
+		System.out.println("adios");
+	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
